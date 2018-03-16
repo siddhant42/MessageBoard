@@ -1,0 +1,6 @@
+com/board/service/MessageBoardServiceImpl.class
+com/board/web/MessagePostController.class
+com/board/domain/Message.class
+com/board/service/MessageBoardService.class
+com/board/web/MessageDeleteController.class
+com/board/web/MessageListController.class
